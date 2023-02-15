@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "first node.js package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tonper19/node.js.git"
+  },
+  "author": "Tony Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonper19/node.js/issues"
+  },
+  "homepage": "https://github.com/tonper19/node.js#readme"
+}
