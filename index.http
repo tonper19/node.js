@@ -1,0 +1,2 @@
+# this will be used by the REST Client (VSCode extension) to simulate client requests
+post http://localhost:3000/
